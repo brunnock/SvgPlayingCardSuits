@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg xmlns="http://www.w3.org/2000/svg"
+     viewBox="0 0 600 600">
+
+  <g transform="rotate(225,300,300)">
+    <rect width="300" height="300" x="200" y="200" />
+    <circle cx="200" cy="350" r="150" />
+    <circle cx="350" cy="200" r="150" />
+  </g>
+
+  <path d="M300,300 Q300,500 200,600 H400 Q300,500 300,300" />
+
+</svg>
